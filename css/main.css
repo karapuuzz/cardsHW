@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    text-align: center;
+    width: 1200px;
+    font-family: "American Typewriter";
+}
+.card1{
+    border-style: groove;
+    height: 400px;
+    margin-left: 100px;
+}
+.card2{
+    border-style: groove;
+    height: 400px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.card3{
+    border-style: groove;
+    height: 400px;
+    margin-right: 100px;
+}
+.tc1{
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.tc2{
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.tc3{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+p{
+    color: cadetblue;
+}
+.bc1{
+    margin: 50px;
+    border-style: groove;
+    border-color: black;
+    border-width: 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.bc2{
+    margin: 50px;
+    border-style: groove;
+    border-color: black;
+    border-width: 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.bc3{
+    margin: 50px;
+    border-style: groove;
+    border-color: black;
+    border-width: 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
